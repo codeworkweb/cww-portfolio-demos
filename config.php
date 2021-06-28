@@ -2,7 +2,7 @@
 $data = array(
 
     'main' => array(
-        'categories'        => array( 'Main Demo','cww-portfolio' ),
+        //'categories'        => array( 'Main Demo','cww-portfolio' ),
         'preview_url'       => 'https://demo.codeworkweb.com/cww-portfolio/main/',
         'xml_file'          => 'content.xml',
         'theme_settings'    => 'customizer.dat',
